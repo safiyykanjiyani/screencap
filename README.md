@@ -6,6 +6,6 @@ This is a personal project to better learn frontend development and also create 
 TO-DO
 
 ## Credits
-The source of the list of movies is from [They Shoot Movies, Don't They?]{https://www.theyshootpictures.com/gf1000.htm}
+The source of the list of movies is from [They Shoot Movies, Don't They?](https://www.theyshootpictures.com/gf1000.htm)
 
 The API that I source screenshots from is [TheMovieDatabase](https://www.themoviedb.org)
